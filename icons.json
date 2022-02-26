@@ -7,10 +7,15 @@
     {
       "id": "pride",
       "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3f3-fe0f-200d-1f308.png"
+    },
+    {
+      "id": "ukraine",
+      "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1e6.png"
     }
   ],
   "users": {
-    "503450fc-72c2-4e87-8243-94e264977437" : "canada"
+    "503450fc-72c2-4e87-8243-94e264977437" : "canada",
+    "e8fcf540-5b7d-4297-928c-41fff9572b4a": "ukraine"
   },
   "default": ""
 }
