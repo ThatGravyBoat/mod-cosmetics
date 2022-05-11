@@ -5,12 +5,36 @@
       "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1e8-1f1e6.png"
     },
     {
+      "id": "ukraine",
+      "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1e6.png"
+    },
+    {
       "id": "pride",
       "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3f3-fe0f-200d-1f308.png"
     },
     {
-      "id": "ukraine",
-      "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1e6.png"
+      "id": "trans",
+      "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3f3-fe0f-200d-26a7-fe0f.png"
+    },
+    {
+      "id": "asexual",
+      "url": "https://i.imgur.com/j2izIce.png"
+    },
+    {
+      "id": "bisexual",
+      "url": "https://i.imgur.com/Rw8uywV.png"
+    },
+    {
+      "id": "lesbian",
+      "url": "https://i.imgur.com/gPwXpF5.png"
+    },
+    {
+      "id": "nonbinary",
+      "url": "https://i.imgur.com/5HkoSHK.png"
+    },
+    {
+      "id": "pansexual",
+      "url": "https://i.imgur.com/cRbJewv.png"
     }
   ],
   "users": {
